@@ -32,7 +32,7 @@ admin_users = {}
 ALLOWED_CHAT_IDS = set()
 
 # Replace with your Telegram bot token
-bot = telebot.TeleBot('7634150170:AAG4SJaiT9WwAAviqf4_zJe2D129p7d7geU')
+bot = telebot.TeleBot('8167991509:AAEdvyW1xLHTCwYBv5RtI4GlvdBHzlUFUlI')
 
 # Dictionary to store user access information (user_id: expiration_date)
 user_access = {}
